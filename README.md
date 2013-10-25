@@ -16,7 +16,7 @@
     * [LMAX Disruptor](http://lmax-exchange.github.io/disruptor/)
     * [Docker](https://www.docker.io/)
     * [Storm](http://storm-project.net/)
-* Richard Linklater's 1991 class film, '[Slacker](http://www.imdb.com/title/tt0102943/)'
+* Richard Linklater's 1991 classic film, '[Slacker](http://www.imdb.com/title/tt0102943/)'
 
 ### links
 * [github](https://github.com/ijf)
