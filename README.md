@@ -19,7 +19,7 @@
 * Richard Linklater's 1991 classic film, '[Slacker](http://www.imdb.com/title/tt0102943/)'
 
 ### links
-* [github](https://github.com/ijf)
+* [github](https://github.com/ianferguson)
 * [linkedin](http://www.linkedin.com/in/ianjamesferguson)
 * [email](info@tremblingfire.com)
 
