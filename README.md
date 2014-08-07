@@ -21,6 +21,6 @@
 ### links
 * [github](https://github.com/ianferguson)
 * [linkedin](http://www.linkedin.com/in/ianjamesferguson)
-* [email](info@tremblingfire.com)
+* [email](info@labmarie.com)
 
 _feel free to contact me if you're interested in any of these things, or have questions, comments or even great cat gifs to share_
