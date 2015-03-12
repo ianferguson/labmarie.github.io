@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/ianferguson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ianferguson.io
+  * I am ianferguson (https://keybase.io/ianferguson) on keybase.
+  * I have a public key with fingerprint A2DB ABBD 6812 3D75 F17A  92B9 602C 4FBA F02F D45B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a2dbabbd68123d75f17a92b9602c4fbaf02fd45b",
+            "host": "keybase.io",
+            "key_id": "602c4fbaf02fd45b",
+            "kid": "010170b40850cbff06f0bb775495ce0376b790061978e87a04e60fa2025c745eb55a0a",
+            "uid": "2d2ca46ad43400c65226be851d573100",
+            "username": "ianferguson"
+        },
+        "service": {
+            "hostname": "ianferguson.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1426109279,
+    "expire_in": 157680000,
+    "prev": "1331f66f16475e651e66a39896e503a8920d2fcf0d040f5eab49021b16bef8c2",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+Comment: GPGTools - https://gpgtools.org
+
+owFtkmtMHFUUx5cVSNm1lYpWi42GgSZiedy5O8/lUVoCBHm2CWyDTbbzuLMMuA9n
+d5FlgzxaYkt4paV1iShGIIUUaxqglqItxfQVEExtDYKNNhQjaBQRTYTWOoP6Se+X
+m3vO//zO/Z+cts2P6QxBh+IKLi4n3n4laGKR1xXpBkU/xjtFH2b2Y+Vo45Jkhw0p
+LkV2eDAzxkGR53hepBgcmkSalHCaYyHPUgAKhMRzEoCSSJA8FoeVOt1ahYrhOTdK
+kJ1qTH1YZVGN/o++fCMBcIDTgCcAQwKBlyRASYDnaZokWFJAwERTPM0CQOEszSCG
+5gCBKCBxEEBSoAkS8STJAU7FeTdwUIQCR1CcSJgIAASKhJDiEUPiIkmbcAA0oRsp
+Ds6OVLXMOSSk2LxupwOrjsPURIUsIG0Kmpn/iv425VKcHqfgfFXNlXo8LrNW6vG5
+NO3riLf+Q7HyskNUZ6kWVCDFLastzLiqFDyyhsUJSOGAhTQbh6FKl6wgq6wpSJpi
+gHq0NqhCReImEy5RlIRTBE0iisQRRXEmlmEpRAITx7AQiFASJCACAkgk4niCBRDn
+cdW3xAgQ03y95nBiZlr9JmdTkW7Z5uA8oV4FYdWGY/odwboggy40RK/tg84QFv7v
+kvjLwnWt0Ukx4nTx3p3D9Y1VlvoeuiS8t7mxve1JGPt81ty3Tzxri+nInJkvnxg5
+A/R+w8PuH+aO9nUV3DT/sm0FT7/zceTq1bcM76+EZ57vbDQS36zXtN+9fuLlL+ZL
+V/v17uzs2srsDgtslEqiP7W9O5N77cTUweW1lOB9F5SWAxGO696x9dAdic3X8hI6
+B6rS/tgS0bNpARyIyftulztrP9eR4a8q7d7qywS+zNn0rzwxsQ9KLcmHhg57cnZv
+oYeSpi5GvRlfcNUtvDdYl3C4anIcfl52Y7BwuKjJNU7mLDzYbjg9WxWS/4zrVn5d
+Ona2bsk4WnarWvn9ivfC2Q8eZbTm9V4+F2h+2jJR9+JvfUzujQjv7ppF36l8k5Ho
+yO1qSF2Zqp9bWEqxwVPfx21q2Wl39dTdRgN3jkL7pRmsOanXF7zu+3Ptncw2Z2DW
+Y2lbbq3tHlocPl65jsfuU2biD9qP3LTa9x5j1+zRhs3x7Q3TLV1pP6YKxwPnAn1D
+934d3XrlpdG2IyNpXedrjQMJkTFLYYNR27z3i4p/StC/wPqfsrZXZrDPjSWO3nt7
+vOiNh0spDYXG5O0tNamo/8POPZVccFbEnjJT4Wf7BWP/Gcvk1yP1A19+1FQ8KYU8
+vjqWxtwNhP38yDwfoj/ZVHI56pNda5b7ob6x9sicaWNaclZi8elLgaC8vwA=
+=kqfD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ianferguson
+
+==================================================================
+

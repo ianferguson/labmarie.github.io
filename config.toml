@@ -1,0 +1,19 @@
+baseurl = "http://labmarie.com/"
+languageCode = "en-us"
+title = "Lab Marie"
+
+# a lot of things are duplicated, due to themes having their own
+# keys for things, and me not being sure of a theme 100% yet
+[params]
+  Description = "Software Engineering & Technology Consulting Services"
+  description = "Software Engineering & Technology Consulting Services"
+  github = "ianferguson"
+  linkedin = "ianjamesferguson"
+  email = "info@labmarie.com"
+
+[[params.social]]
+    title = "github"
+    url = "https://github.com/ianferguson"
+[[params.social]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/ianjamesferguson"
