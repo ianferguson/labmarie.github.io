@@ -1,13 +1,4 @@
-#### Technology Consulting and Software Engineering
+[![wercker status](https://app.wercker.com/status/8d63c45d55de927bf48a8003ce0770d3/m "wercker status")](https://app.wercker.com/project/bykey/8d63c45d55de927bf48a8003ce0770d3)
 
-Expertise available in:
-* high performance and reliable automated data processing.
-* using technology, data & analytics to drive business intelligence and insights.
-* cloud based systems creation, deployment and management.
-* scalable technology architecture design.
+Hugo based site for labmare.com deployed by wercker
 
-_feel free to contact me if you're interested in any of these things, or have any questions_
-
-* [email](info@labmarie.com)
-* [linkedin](http://www.linkedin.com/in/ianjamesferguson)
- 
